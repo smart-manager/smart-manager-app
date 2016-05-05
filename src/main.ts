@@ -1,9 +1,9 @@
 import { bootstrap } from '@angular/platform-browser-dynamic';
 import { enableProdMode } from '@angular/core';
-import { SmartManagerAppAppComponent, environment } from './app/';
+import { SmartManagerAppComponent, environment } from './app/';
 
 if (environment.production) {
   enableProdMode();
 }
 
-bootstrap(SmartManagerAppAppComponent);
+bootstrap(SmartManagerAppComponent);

@@ -1,2 +1,2 @@
 export {environment} from './environment';
-export {SmartManagerAppAppComponent} from './smart-manager-app.component';
+export {SmartManagerAppComponent} from './sm-app.component';
