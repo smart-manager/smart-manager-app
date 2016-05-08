@@ -1,2 +1,5 @@
-# smart-manager-app
+# Smart Manager App
 Smart Manager Web App
+
+## Development
+
